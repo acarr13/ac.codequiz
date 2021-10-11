@@ -1,3 +1,4 @@
+
 # ac.codequiz
 
 ## User Story
@@ -23,6 +24,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 * GitHub repository contains application code.
+
+## Screenshot
+
+![Screenshot](./img/quiz.png)
 
 ## Links
 
