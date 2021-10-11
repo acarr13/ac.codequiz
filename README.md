@@ -83,4 +83,4 @@ You are required to submit BOTH of the following for review:
 
 ## Links
 
-[Link to Code Quiz](file:///Users/kiidac/homework/ac.codequiz/quiz.html)
+[Link to Code Quiz]()
